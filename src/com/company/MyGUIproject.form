@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.MyGUIproject">
+  <grid id="27dc6" binding="rootPanel" layout-manager="GridLayoutManager" row-count="5" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="497" height="582"/>
+    </constraints>
+    <properties>
+      <background color="-16777216"/>
+      <foreground color="-16777216"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="e9127" class="javax.swing.JButton" binding="a1Button" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="1"/>
+        </properties>
+      </component>
+      <hspacer id="cf113">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="41425">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="a7e17" class="javax.swing.JButton" binding="a2Button" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="2"/>
+        </properties>
+      </component>
+      <component id="1a85d" class="javax.swing.JButton" binding="a3Button" default-binding="true">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="3"/>
+        </properties>
+      </component>
+      <component id="573a" class="javax.swing.JButton" binding="a4Button" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="4"/>
+        </properties>
+      </component>
+      <component id="4e94f" class="javax.swing.JButton" binding="a5Button" default-binding="true">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="5"/>
+        </properties>
+      </component>
+      <component id="85534" class="javax.swing.JButton" binding="a6Button" default-binding="true">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="6"/>
+        </properties>
+      </component>
+      <component id="bf2cd" class="javax.swing.JButton" binding="a8Button" default-binding="true">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="8"/>
+        </properties>
+      </component>
+      <component id="53c62" class="javax.swing.JButton" binding="a7Button" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="7"/>
+        </properties>
+      </component>
+      <component id="a8b61" class="javax.swing.JButton" binding="a9Button" default-binding="true">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="9"/>
+        </properties>
+      </component>
+      <component id="2fee7" class="javax.swing.JButton" binding="a0Button" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13553359"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-2960686"/>
+          <text value="0"/>
+        </properties>
+      </component>
+      <component id="b6739" class="javax.swing.JButton" binding="carpma">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-616186"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-657673"/>
+          <text value="*"/>
+        </properties>
+      </component>
+      <component id="f3074" class="javax.swing.JButton" binding="sonuc">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6250336"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-16777216"/>
+          <text value="="/>
+        </properties>
+      </component>
+      <component id="533ac" class="javax.swing.JButton" binding="cButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6250336"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-16777216"/>
+          <text value="C"/>
+        </properties>
+      </component>
+      <component id="cd1c8" class="javax.swing.JButton" binding="bolme">
+        <constraints>
+          <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-616186"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-657673"/>
+          <text value="/"/>
+        </properties>
+      </component>
+      <component id="6036b" class="javax.swing.JButton" binding="toplama">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-616186"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-657673"/>
+          <text value="+"/>
+        </properties>
+      </component>
+      <component id="8ad55" class="javax.swing.JButton" binding="cikarma">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="50" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-616186"/>
+          <font name="Arial" size="22"/>
+          <foreground color="-657673"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="d99c3" class="javax.swing.JTextField" binding="sonucEkrani">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-11775918"/>
+          <font size="20"/>
+          <foreground color="-657673"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
